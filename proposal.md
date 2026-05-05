@@ -22,10 +22,32 @@ The third effect is the unequal distribution of productivity gains. Empirical re
 
 
 ## Policy Options
+### Option 1:National AI Task Transition Program.
+The main advantage of this solution is that it can solve short-term pain points affected by AI. The point is that instead of subsidizing "future skills" programs, prioritize those employees affected by daily cognitive tasks and help them with careers with realistic transition paths. The downside of this approach is that it is too complex to implement and requires real-time updates on data on AI-affected occupations due to the rapid growth of AI.
+
+### Option 2:AI Augmentation Grants for firms.
+The program provides co-funding for companies that are adopting AI to enhance worker productivity, especially small and medium-sized enterprises. This approach not only encourages productivity growth, but also encourages companies to go beyond simply replacing labor with AI. The risk is that companies may package generic software as "AI-enhanced" files, but this risk can be avoided through clear reporting requirements and evaluation metrics.
+
+### Option 3:Targeted workplace AI transparency rules.
+The program requires companies to disclose and communicate with employees when using AI for recruitment, scheduling, performance monitoring, task assignment, or firing. To some extent, this solution solves the problem of information asymmetry between employers and employees, and reduces the risk of opaque algorithm management. The downside is that it can increase the compliance burden. To avoid this risk, the program should be effective in restrictive scenarios, such as implementing it in high-risk workplaces and not in ordinary productivity tools.
+
 
 ## Recommendation and Implementation Plan
+Based on the analysis in the previous chapter, the AI Task Transition Strategy for option 1 is the most suitable. The pure training strategy ignores a solid incentive mechanism and seems too narrow. A purely regulatory strategy that slows down productivity gains is too conservative. Therefore, governments should focus on AI mission transformation strategies, incorporating interrelated options 2 and 3. This allows the strategy to encompass mission intelligence, employee transformation, and responsible AI enhancements.
 
-## Risks and Mitigation
+### Phase 1: Build task intelligence.
+Jobs and Skills Australia should maintain a public AI Task Exposure Dashboard platform that combines occupation-level data, employer surveys and feedback from training providers for analysis. The platform should categorize tasks by degree of automation, enhancement potential, and difficulty of transformation. Core outputs will be a list of priorities that have been exposed by AI and feasible transformation paths.
+
+### Phase 2: Fund worker transition.
+The government should transition accounts to pilot AI transition accounts for workers in high-exposure occupations. Every eligible worker can receive subsidies and training through TAFE, universities or approved private institutions. Training should focus on AI tool use, validation, data literacy, and communication skills. The pilot should focus on junior professionals such as administration, clerical and customer support, as the tasks in these areas have changed significantly.
+
+### Phase 3: Support responsible firm adoption.
+AI Augmentation Grants should be available to businesses with worker-centric AI adoption programs. Funding conditions should include employee training, employee consulting, and productivity targets. Companies should report whether AI adoption has changed employee headcount, wages, quality of work, and per capita output. This can incentivize businesses to move from simple alternative labor to complementary innovation.
+
+
+## Conclusion
+Policy should not attempt to freeze the existing labor market or assume that market adjustments will be completed naturally and without pressure. The most effective way is to help workers move from AI powered alternatives to AI complementary tasks. The Australian government's policy objectives should be clear to accelerate the adoption of AI with productivity value while ensuring that workers can share the benefits. This is the most balanced way to achieve this goal.
+
 
 ## References
 Acemoglu, D., Autor, D., Hazell, J. and Restrepo, P. (2022). Artificial Intelligence and Jobs: Evidence from Online Vacancies. Journal of Labor Economics, [online] 40(S1), pp.S293–S340. doi: https://doi.org/10.1086/718327.
@@ -33,4 +55,14 @@ Acemoglu, D., Autor, D., Hazell, J. and Restrepo, P. (2022). Artificial Intellig
 Acemoglu, D. and Restrepo, P. (2019). Automation and New Tasks: How Technology Displaces and Reinstates Labor. Journal of Economic Perspectives, [online] 33(2), pp.3–30. doi: https://doi.org/10.1257/jep.33.2.3.
 
 Acemoglu, D. and Restrepo, P. (2020). Robots and Jobs: Evidence from US Labor Markets. Journal of Political Economy, 128(6), p.2188‐2244. doi: https://doi.org/10.1086/705716.
+
+Brynjolfsson, E., Li, D. and Raymond, L. (2025). Generative AI at Work. The Quarterly Journal of Economics, [online] 140(2). doi: https://doi.org/10.1093/qje/qjae044.
+
+Felten, E., Raj, M. and Seamans, R. (2021). Occupational, industry, and geographic exposure to artificial intelligence: A novel dataset and its potential uses. Strategic Management Journal, 42(12). doi: https://doi.org/10.1002/smj.3286.
+
+Kellogg, K.C., Valentine, M.A. and Christin, A. (2020). Algorithms at Work: The New Contested Terrain of Control. Academy of Management Annals, 14(1), pp.366–410.
+Noy, S. and Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence. Science, 381(6654), pp.187–192. doi: https://doi.org/10.1126/science.adh2586.
+
+Dell’Acqua F, McFowland E, Mollick E, Lifshitz H, Kellogg KC, Rajendran S, Krayer L, Candelon F and Lakhani KR (2026) ‘Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality’, Organization Science, doi: https://doi.org/10.1287/orsc.2025.21838.
+
 
